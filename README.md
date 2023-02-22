@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [https://github.com/](https://github.com/)
 
-- 📫 You can text me **ihsmen@gmail.com**
+- 📫 You can text me in Telegram **@ikhsmen**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
