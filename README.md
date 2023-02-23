@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am Marat</h1><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I am Marat <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvoryanoff&label=Profile%20views&color=0e75b6&style=flat" alt="dvoryanoff" /> </p>
