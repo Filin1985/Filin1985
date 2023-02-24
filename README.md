@@ -45,3 +45,6 @@
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=plastic&logo=codewars&logoColor=grey)
  
  </p>
+ 
+ 
+[![codewars](https://www.codewars.com/users/ihsmen/badges/large)](https://www.codewars.com/users/username)
