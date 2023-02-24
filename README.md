@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [https://github.com/](https://github.com/).
 
-- 👀 Seeking employment as junior front-end developer.
+- 👀 Seeking employment as a junior frontend developer.
 
 - 👨‍💻 I want to work for a large development company, and develop complex user interfaces and applications 📱.
 
