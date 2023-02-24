@@ -55,3 +55,6 @@
  
  
 [![codewars](https://www.codewars.com/users/ihsmen/badges/large)](https://www.codewars.com/users/username)
+
+## Some statistics 📈
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Filin1985&theme=default)
