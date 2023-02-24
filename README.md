@@ -3,9 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvoryanoff&label=Profile%20views&color=0e75b6&style=flat" alt="dvoryanoff" /> </p>
 
-- 🔭 I’m currently working on [https://github.com/](https://github.com/)
+- 🔭 I’m currently working on [https://github.com/](https://github.com/).
 
-- 📫 You can text me on Telegram **@ikhsmen**
+- 👀 Seeking employment as junior front-end developer.
+
+- 👨‍💻 I want to work for a large development company, and develop complex user interfaces and applications 📱.
+
+## Contacts:
+- Phone +7 (985) 179-74-56
+- e-Mail m.ihsanov2009@yandex.ru
+- Telegram https://t.me/ikhsmen
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
