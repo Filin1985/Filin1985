@@ -63,4 +63,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Filin1985&theme=default)
 
 ## About Algorithms
-[9b971173-790e-44b8-933e-63aa7575842c 3.pdf](https://github.com/Filin1985/Filin1985/files/11250547/9b971173-790e-44b8-933e-63aa7575842c.3.pdf)
+![Sertificat of participants](https://user-images.githubusercontent.com/16574140/232494910-c750f13f-d33e-4383-8421-f32ec78f8d87.PNG)
+
