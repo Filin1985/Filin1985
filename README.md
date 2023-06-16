@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filin1985&label=Profile%20views&color=0e75b6&style=flat" alt="filin1985" /> </p>
 
-- 🔭 I’m currently working on [https://github.com/Filin1985/mesto-react](https://github.com/Filin1985/mesto-react).
+- 🔭 I’m currently working on [https://github.com/Filin1985/mesto-react](https://github.com/Filin1985/react-mesto-auth).
 
 - 👀 Seeking employment as a junior frontend developer.
 
