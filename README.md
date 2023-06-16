@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [https://github.com/Filin1985/react-mesto-auth](https://github.com/Filin1985/react-mesto-auth).
 
-- 🎗 I participate in the charity project of the "Breaking Barriers" Foundation as a frontend developer [lomaya_baryery_frontend](https://github.com/Studio-Yandex-Practicum/lomaya_baryery_frontend).
+- 🎗 I participate in the charity project as a frontend developer [lomaya_baryery_frontend](https://github.com/Studio-Yandex-Practicum/lomaya_baryery_frontend).
 
 - 👨‍💻 I work as a frontend developer in a bank.
 
