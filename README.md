@@ -7,7 +7,7 @@
 
 - 🎗 I participate in the charity project of the "Breaking Barriers" Foundation as a frontend developer [lomaya_baryery_frontend](https://github.com/Studio-Yandex-Practicum/lomaya_baryery_frontend).
 
-- 👨‍💻 I want to work for a large development company, and develop complex user interfaces and applications 📱.
+- 👨‍💻 I work as a frontend developer in a bank.
 
 ## Contacts:
 - Phone +7 (985) 179-74-56
