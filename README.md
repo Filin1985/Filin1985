@@ -11,7 +11,7 @@
 
 ## Contacts:
 - Phone +7 (985) 179-74-56
-- e-Mail m.ihsanov2009@yandex.ru
+- E-mail m.ihsanov2009@yandex.ru
 - Telegram https://t.me/ikhsmen
 
 ## Social media:
