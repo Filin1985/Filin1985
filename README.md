@@ -21,7 +21,7 @@
 </p>
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,redux,html,css,scss,figma,pythom,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,redux,html,css,scss,figma,python,django,docker)](https://skillicons.dev)
 
 <h3 align="left">Also i use:</h3>
 <p align="left">
