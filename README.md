@@ -40,7 +40,8 @@
 [![codewars](https://www.codewars.com/users/ihsmen/badges/large)](https://www.codewars.com/users/username)
 
 ## Some statistics 📈
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Filin1985&theme=default)
+![CodeWars stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Filin1985&theme=default)
+![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Filin1985)](https://github.com/Filin1985/leetcode-stats)
 
 ## About Algorithms
 ![Sertificat of participants](https://user-images.githubusercontent.com/16574140/232494910-c750f13f-d33e-4383-8421-f32ec78f8d87.PNG)
