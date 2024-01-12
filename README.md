@@ -21,10 +21,7 @@
 </p>
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,redux)](https://skillicons.dev)
-<a href="https://effector.dev" target="_blank" rel="noopener noreferrer">
-    <img width="50" src="https://raw.githubusercontent.com/effector/effector/master/website/client/static/img/comet.svg" alt="Effector Comet Logo" />
-</a>
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,redux,nodejs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,figma,python,django,docker)](https://skillicons.dev)
 
 <h3 align="left">Also i use:</h3>
