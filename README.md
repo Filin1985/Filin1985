@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filin1985&label=Profile%20views&color=0e75b6&style=flat" alt="filin1985" /> </p>
 
-- 🔭 I’m currently working on [tank-chess-game]([https://github.com/Filin1985/react-mesto-api-full-gha](https://github.com/AVor0n/tank-chess)).
+- 🔭 I’m currently working on [tank-chess-game](https://github.com/AVor0n/tank-chess).
 
 - 🎗 I participate in the charity project as a frontend developer [lomaya_baryery_frontend](https://github.com/Studio-Yandex-Practicum/lomaya_baryery_frontend).
 
