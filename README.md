@@ -41,5 +41,5 @@
 ![](https://leetcode-stats-six.vercel.app/?username=Filin1985)
 
 ## About Algorithms
-![Sertificat of participants](https://github.com/Filin1985/Filin1985/files/15009845/_5.0.pdf)
+<img width="794" alt="Screenshot 2024-04-17 at 13 57 13" src="https://github.com/Filin1985/Filin1985/assets/16574140/a792eff4-ac2f-47dc-96c0-8269c29e4275">
 
