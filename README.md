@@ -38,6 +38,7 @@
 
 ## Some statistics 📈
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Filin1985&theme=default)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Filin1985?theme=light)
 ![](https://leetcode-stats-six.vercel.app/?username=Filin1985)
 
 ## About Algorithms
