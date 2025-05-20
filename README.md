@@ -41,5 +41,4 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Filin1985?theme=light)
 
 ## About Algorithms
-<img width="794" alt="Screenshot 2024-04-17 at 13 57 13" src="https://github.com/Filin1985/Filin1985/assets/16574140/a792eff4-ac2f-47dc-96c0-8269c29e4275">
-
+![Screenshot 2025-05-20 at 06 16 55](https://github.com/user-attachments/assets/e858e83d-63c4-45ef-b2dd-452aeeaad4e8)
