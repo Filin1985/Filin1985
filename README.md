@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [tank-chess-game](https://github.com/AVor0n/tank-chess).
 
-- 🎗 I participate in the charity project as a frontend developer [lomaya_baryery_frontend](https://github.com/Studio-Yandex-Practicum/lomaya_baryery_frontend).
+- 🎗 I participated in the charity project as a frontend developer [lomaya_baryery_frontend](https://github.com/Studio-Yandex-Practicum/lomaya_baryery_frontend).
 
 - 👨‍💻 I work as a frontend developer in a bank.
 
